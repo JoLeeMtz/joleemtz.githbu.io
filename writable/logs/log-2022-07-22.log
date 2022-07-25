@@ -1,0 +1,52 @@
+CRITICAL - 2022-07-22 20:11:57 --> Undefined variable $name
+in APPPATH\Controllers\Authentification.php on line 136.
+ 1 APPPATH\Controllers\Authentification.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'APPPATH\\Controllers\\Authentification.php', 136)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-22 20:31:28 --> Undefined variable $userInfo
+in APPPATH\Controllers\Authentification.php on line 145.
+ 1 APPPATH\Controllers\Authentification.php(145): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userInfo', 'APPPATH\\Controllers\\Authentification.php', 145)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-22 20:31:56 --> Undefined variable $userInfo
+in APPPATH\Controllers\Authentification.php on line 145.
+ 1 APPPATH\Controllers\Authentification.php(145): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userInfo', 'APPPATH\\Controllers\\Authentification.php', 145)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-22 20:36:57 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Authentification.php on line 140.
+ 1 APPPATH\Controllers\Authentification.php(140): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Controllers\\Authentification.php', 140)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-22 23:55:18 --> Invalid file: authentification.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification', [], true)
+ 3 APPPATH\Controllers\Authentification.php(126): view('authentification', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-22 23:55:32 --> Invalid file: authentification.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification', [], true)
+ 3 APPPATH\Controllers\Authentification.php(126): view('authentification', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')

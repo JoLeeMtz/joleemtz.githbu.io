@@ -1,0 +1,757 @@
+CRITICAL - 2022-07-23 00:03:02 --> Invalid file: authentification.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification', [], true)
+ 3 APPPATH\Controllers\Authentification.php(126): view('authentification', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:03:19 --> Invalid file: authentification.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification', [], true)
+ 3 APPPATH\Controllers\Authentification.php(126): view('authentification', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:03:24 --> Invalid file: authentification.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification', [], true)
+ 3 APPPATH\Controllers\Authentification.php(126): view('authentification', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:03:44 --> Invalid file: authentification/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification/index', [], true)
+ 3 APPPATH\Controllers\Authentification.php(126): view('authentification/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:04:03 --> Invalid file: authentification.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification', [], true)
+ 3 APPPATH\Controllers\Authentification.php(126): view('authentification', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:07:21 --> Invalid file: authentification.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification', [], true)
+ 3 APPPATH\Controllers\Authentification.php(126): view('authentification', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:08:08 --> Invalid file: authentification/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification/index', [], true)
+ 3 APPPATH\Controllers\Authentification.php(126): view('authentification/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:09:09 --> Invalid file: authentification/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification/index', [], true)
+ 3 APPPATH\Controllers\Authentification.php(133): view('authentification/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:09:13 --> Invalid file: authentification/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification/index', [], true)
+ 3 APPPATH\Controllers\Authentification.php(133): view('authentification/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:09:29 --> Invalid file: authentification.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification', [], true)
+ 3 APPPATH\Controllers\Authentification.php(133): view('authentification', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLoginUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:12:43 --> Invalid file: authentification/getlogin.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification/getlogin.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification/getlogin', [], true)
+ 3 APPPATH\Controllers\Authentification.php(133): view('authentification/getlogin', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLogin()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:14:02 --> Invalid file: authentification/getlogin.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification/getlogin.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification/getlogin', [], true)
+ 3 APPPATH\Controllers\Authentification.php(133): view('authentification/getlogin', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLogin()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:14:15 --> Invalid file: authentification/getlogin.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('authentification/getlogin.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('authentification/getlogin', [], true)
+ 3 APPPATH\Controllers\Authentification.php(133): view('authentification/getlogin', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLogin()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:18:36 --> Invalid file: FileManager/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FileManager/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 3 APPPATH\Controllers\FileManager.php(11): view('FileManager/index')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:19:01 --> Invalid file: FileManager/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FileManager/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 3 APPPATH\Controllers\FileManager.php(11): view('FileManager/index')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:31:12 --> Undefined constant "App\Controllers\userModel"
+in APPPATH\Controllers\FileManager.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:31:28 --> Undefined constant "App\Controllers\userModel"
+in APPPATH\Controllers\FileManager.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:43:34 --> Undefined variable $userInfo
+in APPPATH\Views\filemanager\index.php on line 13.
+ 1 APPPATH\Views\filemanager\index.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userInfo', 'APPPATH\\Views\\filemanager\\index.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(20): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:43:46 --> Undefined variable $userInfo
+in APPPATH\Views\filemanager\index.php on line 13.
+ 1 APPPATH\Views\filemanager\index.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userInfo', 'APPPATH\\Views\\filemanager\\index.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(20): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-23 15:14:06 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-07-23 15:14:06 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user`
+WHERE `username` = :username:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Authentification.php(141): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLogin()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-23 15:14:29 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-07-23 15:14:29 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user`
+WHERE `username` = :username:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Authentification.php(141): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLogin()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-23 15:14:47 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-07-23 15:14:47 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user`
+WHERE `username` = :username:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Authentification.php(141): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postLogin()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-23 16:17:27 --> Error connecting to the database: Unknown database 'technical_challenge'
+CRITICAL - 2022-07-23 16:17:27 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'technical_challenge'
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`username`, `name`, `password`) VALUES (:username:, :name:, :password:)', [...], false)
+ 3 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 4 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 5 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 6 APPPATH\Controllers\Authentification.php(96): CodeIgniter\Model->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->postRegisterUser()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 18:52:48 --> Call to undefined function App\Controllers\id_dir()
+in APPPATH\Controllers\FileManager.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 18:53:22 --> Undefined constant "App\Controllers\file"
+in APPPATH\Controllers\FileManager.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 19:06:56 --> Undefined variable $data
+in APPPATH\Controllers\FileManager.php on line 12.
+ 1 APPPATH\Controllers\FileManager.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\FileManager.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postIndex()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 19:07:20 --> Undefined variable $userInfo
+in APPPATH\Views\filemanager\index.php on line 11.
+ 1 APPPATH\Views\filemanager\index.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userInfo', 'APPPATH\\Views\\filemanager\\index.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(12): view('FileManager/index')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postIndex()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 19:23:57 --> Undefined property: App\Controllers\FileManager::$load
+in APPPATH\Controllers\FileManager.php on line 26.
+ 1 APPPATH\Controllers\FileManager.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\FileManager::$load', 'APPPATH\\Controllers\\FileManager.php', 26)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 19:26:22 --> Call to undefined function form_open_multipart()
+in APPPATH\Views\filemanager\index.php on line 17.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 4 APPPATH\Controllers\FileManager.php(35): view('FileManager/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 19:31:49 --> Call to undefined function form_open_multipart()
+in APPPATH\Views\filemanager\index.php on line 17.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 4 APPPATH\Controllers\FileManager.php(35): view('FileManager/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:31:12 --> Class "App\Controllers\CI_Controller" not found
+in APPPATH\Controllers\FileManager.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(284): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\FileManager.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\FileManager')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\FileManager')
+ 5 SYSTEMPATH\Router\AutoRouterImproved.php(264): class_exists('App\\Controllers\\FileManager')
+ 6 SYSTEMPATH\Router\AutoRouterImproved.php(115): CodeIgniter\Router\AutoRouterImproved->scanControllers([...])
+ 7 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouterImproved->getRoute('FileManager')
+ 8 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('FileManager')
+ 9 SYSTEMPATH\CodeIgniter.php(771): CodeIgniter\Router\Router->handle('FileManager')
+10 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:31:34 --> Cannot call constructor
+in APPPATH\Controllers\FileManager.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\FileManager->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:36:17 --> Call to a member function getName() on null
+in APPPATH\Controllers\FileManager.php on line 51.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:37:03 --> Undefined property: App\Controllers\FileManager::$load
+in APPPATH\Controllers\FileManager.php on line 52.
+ 1 APPPATH\Controllers\FileManager.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\FileManager::$load', 'APPPATH\\Controllers\\FileManager.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:37:46 --> Undefined property: App\Controllers\FileManager::$load
+in APPPATH\Controllers\FileManager.php on line 52.
+ 1 APPPATH\Controllers\FileManager.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\FileManager::$load', 'APPPATH\\Controllers\\FileManager.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:48:25 --> Undefined variable $errors
+in APPPATH\Views\filemanager\index.php on line 16.
+ 1 APPPATH\Views\filemanager\index.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'APPPATH\\Views\\filemanager\\index.php', 16)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(41): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:48:26 --> Undefined variable $errors
+in APPPATH\Views\filemanager\index.php on line 16.
+ 1 APPPATH\Views\filemanager\index.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'APPPATH\\Views\\filemanager\\index.php', 16)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(41): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:48:32 --> Undefined variable $errors
+in APPPATH\Views\filemanager\index.php on line 16.
+ 1 APPPATH\Views\filemanager\index.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'APPPATH\\Views\\filemanager\\index.php', 16)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(41): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:49:45 --> Undefined variable $errors
+in APPPATH\Views\filemanager\index.php on line 17.
+ 1 APPPATH\Views\filemanager\index.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'APPPATH\\Views\\filemanager\\index.php', 17)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(41): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:50:02 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\filemanager\index.php on line 17.
+ 1 APPPATH\Views\filemanager\index.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'APPPATH\\Views\\filemanager\\index.php', 17)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(41): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:51:36 --> Class "App\Controllers\File" not found
+in APPPATH\Controllers\FileManager.php on line 62.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:53:15 --> Undefined variable $data
+in APPPATH\Controllers\FileManager.php on line 63.
+ 1 APPPATH\Controllers\FileManager.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\FileManager.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:53:28 --> view(): Argument #2 ($data) must be of type array, string given, called in D:\xampp\htdocs\tests\app\Controllers\FileManager.php on line 64
+in SYSTEMPATH\Common.php on line 1121.
+ 1 APPPATH\Controllers\FileManager.php(64): view('FileManager/postIndex', 'ROOTPATH\\public')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:53:42 --> Invalid file: FileManager/postIndex.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FileManager/postIndex.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/postIndex', [], true)
+ 3 APPPATH\Controllers\FileManager.php(64): view('FileManager/postIndex', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:54:08 --> Undefined variable $userInfo
+in APPPATH\Views\filemanager\index.php on line 11.
+ 1 APPPATH\Views\filemanager\index.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userInfo', 'APPPATH\\Views\\filemanager\\index.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(64): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 20:59:25 --> Undefined variable $userInfo
+in APPPATH\Views\filemanager\index.php on line 11.
+ 1 APPPATH\Views\filemanager\index.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userInfo', 'APPPATH\\Views\\filemanager\\index.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(66): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:00:03 --> Call to a member function with() on string
+in APPPATH\Controllers\FileManager.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:06:05 --> Invalid file: FileManager.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FileManager.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager', [], true)
+ 3 APPPATH\Controllers\FileManager.php(67): view('FileManager', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:06:32 --> Invalid file: FileManager/uploadFile.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FileManager/uploadFile.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/uploadFile', [], true)
+ 3 APPPATH\Controllers\FileManager.php(67): view('FileManager/uploadFile', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:08:49 --> Undefined variable $userInfo
+in APPPATH\Views\filemanager\index.php on line 11.
+ 1 APPPATH\Views\filemanager\index.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userInfo', 'APPPATH\\Views\\filemanager\\index.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(67): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:09:39 --> Undefined variable $data
+in APPPATH\Controllers\FileManager.php on line 64.
+ 1 APPPATH\Controllers\FileManager.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\FileManager.php', 64)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:10:52 --> Undefined variable $userInfo
+in APPPATH\Views\filemanager\index.php on line 11.
+ 1 APPPATH\Views\filemanager\index.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userInfo', 'APPPATH\\Views\\filemanager\\index.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(78): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:12:20 --> Undefined variable $userModel
+in APPPATH\Controllers\FileManager.php on line 72.
+ 1 APPPATH\Controllers\FileManager.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userModel', 'APPPATH\\Controllers\\FileManager.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:18:39 --> Call to undefined function getFlashData()
+in APPPATH\Views\filemanager\index.php on line 43.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 4 APPPATH\Controllers\FileManager.php(81): view('FileManager/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:21:17 --> Undefined constant "value"
+in APPPATH\Views\filemanager\index.php on line 42.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 4 APPPATH\Controllers\FileManager.php(81): view('FileManager/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:21:26 --> Undefined constant "value"
+in APPPATH\Views\filemanager\index.php on line 42.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 4 APPPATH\Controllers\FileManager.php(81): view('FileManager/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:24:18 --> Undefined variable $test
+in APPPATH\Views\filemanager\index.php on line 41.
+ 1 APPPATH\Views\filemanager\index.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $test', 'APPPATH\\Views\\filemanager\\index.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(81): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:24:31 --> Undefined constant "error"
+in APPPATH\Views\filemanager\index.php on line 41.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 4 APPPATH\Controllers\FileManager.php(81): view('FileManager/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:24:57 --> Undefined variable $data
+in APPPATH\Views\filemanager\index.php on line 41.
+ 1 APPPATH\Views\filemanager\index.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Views\\filemanager\\index.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(81): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:25:15 --> Undefined variable $data
+in APPPATH\Views\filemanager\index.php on line 41.
+ 1 APPPATH\Views\filemanager\index.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Views\\filemanager\\index.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(81): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:25:39 --> Undefined variable $test
+in APPPATH\Views\filemanager\index.php on line 41.
+ 1 APPPATH\Views\filemanager\index.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $test', 'APPPATH\\Views\\filemanager\\index.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(81): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 21:26:29 --> Undefined variable $test
+in APPPATH\Views\filemanager\index.php on line 41.
+ 1 APPPATH\Views\filemanager\index.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $test', 'APPPATH\\Views\\filemanager\\index.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(81): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:10:08 --> syntax error, unexpected token "&&"
+in APPPATH\Controllers\FileManager.php on line 78.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\FileManager.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\FileManager')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\FileManager')
+ 4 SYSTEMPATH\Router\AutoRouterImproved.php(264): class_exists('App\\Controllers\\FileManager')
+ 5 SYSTEMPATH\Router\AutoRouterImproved.php(115): CodeIgniter\Router\AutoRouterImproved->scanControllers([...])
+ 6 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouterImproved->getRoute('FileManager/uploadFile')
+ 7 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('FileManager/uploadFile')
+ 8 SYSTEMPATH\CodeIgniter.php(771): CodeIgniter\Router\Router->handle('FileManager/uploadFile')
+ 9 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:10:20 --> Undefined variable $file
+in APPPATH\Controllers\FileManager.php on line 52.
+ 1 APPPATH\Controllers\FileManager.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $file', 'APPPATH\\Controllers\\FileManager.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:28:22 --> The original file is not a valid file.
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 137.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('ROOTPATH\\writable\\uploads\\20220723', '1658636902_2535419aab44c1e28809')
+ 3 APPPATH\Controllers\FileManager.php(70): CodeIgniter\HTTP\Files\UploadedFile->store()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:45:13 --> include(logout): Failed to open stream: No such file or directory
+in APPPATH\Views\filemanager\index.php on line 12.
+ 1 APPPATH\Views\filemanager\index.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(logout): Failed to open stream: No such file or directory', 'APPPATH\\Views\\filemanager\\index.php', 12)
+ 2 APPPATH\Views\filemanager\index.php(12): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 6 APPPATH\Controllers\FileManager.php(75): view('FileManager/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:45:36 --> include(views/FileManager/logout): Failed to open stream: No such file or directory
+in APPPATH\Views\filemanager\index.php on line 12.
+ 1 APPPATH\Views\filemanager\index.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/FileManager/logout): Failed to open stream: No such file or directory', 'APPPATH\\Views\\filemanager\\index.php', 12)
+ 2 APPPATH\Views\filemanager\index.php(12): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 6 APPPATH\Controllers\FileManager.php(75): view('FileManager/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->postUploadFile()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:55:12 --> Unclosed '{' on line 185 does not match ')'
+in APPPATH\Controllers\Authentification.php on line 186.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Authentification.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Authentification')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Authentification')
+ 4 SYSTEMPATH\Router\AutoRouterImproved.php(264): class_exists('App\\Controllers\\Authentification')
+ 5 SYSTEMPATH\Router\AutoRouterImproved.php(115): CodeIgniter\Router\AutoRouterImproved->scanControllers([...])
+ 6 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouterImproved->getRoute('authentification/logout')
+ 7 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('authentification/logout')
+ 8 SYSTEMPATH\CodeIgniter.php(771): CodeIgniter\Router\Router->handle('authentification/logout')
+ 9 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:55:36 --> Undefined variable $LOGGED_USER_ID_KEY
+in APPPATH\Controllers\Authentification.php on line 184.
+ 1 APPPATH\Controllers\Authentification.php(184): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $LOGGED_USER_ID_KEY', 'APPPATH\\Controllers\\Authentification.php', 184)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Authentification->getLogout()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentification))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:57:02 --> Undefined array key "name"
+in APPPATH\Views\filemanager\index.php on line 11.
+ 1 APPPATH\Views\filemanager\index.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\filemanager\\index.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\filemanager\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('FileManager/index', [], true)
+ 5 APPPATH\Controllers\FileManager.php(38): view('FileManager/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:59:34 --> Call to undefined function App\Controllers\show_404()
+in APPPATH\Controllers\FileManager.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 23:59:39 --> Call to undefined function App\Controllers\show_404()
+in APPPATH\Controllers\FileManager.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\FileManager->getIndex()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileManager))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
